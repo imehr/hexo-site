@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hexo</title>
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/hexo-site/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://imehr.github.io/hexo-site/"/>
   <updated>2016-04-24T03:04:24.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://imehr.github.io/hexo-site/</id>
   
   <author>
     <name>John Doe</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>My New Post 1</title>
-    <link href="http://yoursite.com/2016/04/24/My-New-Post-1/"/>
-    <id>http://yoursite.com/2016/04/24/My-New-Post-1/</id>
+    <link href="http://imehr.github.io/hexo-site/2016/04/24/My-New-Post-1/"/>
+    <id>http://imehr.github.io/hexo-site/2016/04/24/My-New-Post-1/</id>
     <published>2016-04-24T03:04:24.000Z</published>
     <updated>2016-04-24T03:04:24.000Z</updated>
     
@@ -33,8 +33,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/04/24/hello-world/"/>
-    <id>http://yoursite.com/2016/04/24/hello-world/</id>
+    <link href="http://imehr.github.io/hexo-site/2016/04/24/hello-world/"/>
+    <id>http://imehr.github.io/hexo-site/2016/04/24/hello-world/</id>
     <published>2016-04-24T01:34:07.000Z</published>
     <updated>2016-04-24T01:34:07.000Z</updated>
     
